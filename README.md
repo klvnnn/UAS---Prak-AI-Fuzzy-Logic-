@@ -1,4 +1,4 @@
-# UAS---Prak-AI-Fuzzy-Logic-
+# UAS-PrakAI-FuzzyLogic-
 Fuzzy Logic  
 Library yang di gunakan  
 1. Numpy 
